@@ -1,0 +1,242 @@
+.fa {
+    color: aqua;
+}
+
+.center_img {
+    background-size: 100%;
+}
+
+.logo {
+    font-size: 1.25rem;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.logo_header {
+    font-size: 3.75rem;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.text_header {
+    font-size: 1rem;
+    color: aliceblue;
+}
+
+.text_header_button {
+    font-size: 0.6875rem;
+    color: aliceblue;
+}
+
+.flex_item_header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 4rem;
+
+}
+
+.header {
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-style: bolt;
+    font-size: .8rem;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.container {
+    width: 80%;
+}
+
+.nav {
+    display: flex;
+    gap: 1rem;
+}
+
+.color_white {
+    color: black;
+    font-size: 1.1rem;
+}
+
+.nav_flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.text_blue {
+    color: aqua;
+    font-weight: bold;
+}
+
+.about_build {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 5rem;
+}
+
+.position_img {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    gap: 2rem;
+}
+
+.text_decor {
+    color: rgb(89, 99, 107);
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 3rem;
+}
+
+.zero_p {
+    margin: 0;
+}
+
+.zero_div {
+    position: relative;
+}
+
+.pos_p {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    right: 0;
+    bottom: 0;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+.btn-primary {
+    background-color: aqua;
+    border-radius: 0;
+    text-transform: uppercase;
+    border: 0;
+padding-left: 3rem;
+padding-right: 3rem; 
+white-space: nowrap;
+
+}
+
+.our_text {
+    display: flex;
+    gap: 5rem;
+    margin-bottom: 2rem;
+}
+
+.our_text>h4 {
+    white-space: nowrap;
+}
+.img_size{
+    width: 3rem;
+    height: 3rem;
+margin-bottom: 2rem;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.card{
+    padding: 2rem;
+
+}
+
+.flex_item_footer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 4rem;
+    align-items: center;
+
+}
+.btn_size{
+width: rem;
+}
+.section{
+    padding: 1.5rem;
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    align-items: center;
+background-color: black;
+}
+/* .email_input{
+    border: 1px solid black;
+} */
+.h3_footer>p{
+    white-space: nowrap;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+.input-group-footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+}
+.footer_item{
+    background-color: rgba(18, 20, 20, 0.986);
+}
+.p_color_white{
+    color: aliceblue;
+}
+ul{
+list-style: none;
+
+}
+a{
+    color: aliceblue;
+}
+.footer_item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.links{
+    display: flex;
+
+}
+.cont2>.fa{
+ color: aliceblue;
+}
+.cont2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: .5rem;
+}
+.aling_text{
+    display: flex;
+    align-items: center;
+}
+.last_footer{
+background-color: black;
+}
+.last_footer>p{
+    color: aliceblue;
+    font-size: 1rem;
+    padding: 1rem;
+}
